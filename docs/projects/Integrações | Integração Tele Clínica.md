@@ -1,4 +1,4 @@
-```md
+
 # Integração Tele Clínica
 
 ## Introdução à Funcionalidade
@@ -82,5 +82,3 @@ Entre em contato com o suporte da IXC Soft usando os canais fornecidos no nosso 
 
 - [Documentação API Interativa](https://docs.api-no-payment-flow.dev.appteleclinica.com.br)
 - Vídeos tutoriais e webinários na [página de suporte IXC Soft](https://support.ixcsoft.com).
-
-```

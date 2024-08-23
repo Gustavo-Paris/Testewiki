@@ -1,4 +1,4 @@
-```md
+
 # Documentação da Funcionalidade: Integração Campsoft
 
 ## Introdução à Funcionalidade
@@ -73,4 +73,4 @@ R: Atualmente, a funcionalidade é projetada especificamente para a Campsoft, ma
 - [API IXC: Documentação Completa](https://link-para-documentacao-api.com)
 - [Tutorial de Integração com Campsoft - Parte 1](https://link-para-tutorial1.com)
 - [Webhooks: O Que São e Como Usar](https://link-para-webhooks.com)
-```
+
