@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "09424e472f54a6f7",
+        "id": "aec5b09176b4ad81",
         "type": "tabs",
         "children": [
           {
-            "id": "723bf8bea5310c91",
+            "id": "411d00c500f2af2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/projects/Integrações | Superplayer & Co.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/projects/Integrações | Superplayer & Co.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/projects/Integrações | Superplayer & Co.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/projects/Integrações | Superplayer & Co.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,13 +138,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "723bf8bea5310c91",
+  "active": "c16c9d2df31695d0",
   "lastOpenFiles": [
-    "docs/projects/Integrações | Integração Campsoft.md",
     "docs/projects/Integrações | Superplayer & Co.md",
-    "docs/projects/Integrações | Integração SatTV.md",
-    "teste.md",
     "docs/projects/Integrações | Integração Tele Clínica.md",
+    "docs/projects/Faturas | Integração API Asaas.md",
+    "docs/projects/Integrações | Integração IXER INTERMEDIADORA DE BENEFÍCIOS LTDA.md",
+    "docs/projects/IXC ACS | Habilitar endereço IPv6 em massa.md",
+    "docs/projects/InMap Service | Roteirização e Agendamento automático.md",
+    "docs/projects/InMap Service | Roteirização/ Agendamento automático.md",
+    "docs/projects/InMap Service | Roteirização",
+    "docs/projects/Opa! Suite | Remodelação de Dashboards.md",
+    "docs/projects/Integrações | Integração SatTV.md",
+    "docs/projects/Integrações | Integração Campsoft.md",
+    "teste.md",
     "docs/projects/Integrações | Integração IOT.md",
     "docs/projects/teste.md",
     "Welcome.md",
