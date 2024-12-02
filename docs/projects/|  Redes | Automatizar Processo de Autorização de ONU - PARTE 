@@ -1,0 +1,56 @@
+### Automatização do Processo de Autorização de ONU - Projeto no IXC Provedor
+
+#### Objetivos do Projeto:
+- Criar uma interface para cadastro de templates de provisionamento.
+- Implementar lógica para vinculação automática de perfis às ONUs.
+- Reduzir erros manuais e tempo de provisionamento.
+
+#### Funcionalidades Principais:
+1. **Cadastro de Templates de Provisionamento:**
+   - Interface amigável para cadastro e gestão de templates.
+   - Campos específicos para hardware, perfil e OLT.
+
+2. **Sugestão Automática de Templates:**
+   - Sistema sugere templates com base em dados do sistema, facilitando a operação e escolha.
+
+3. **Vinculação Automática de Perfis:**
+   - Lógica implementada para identificar e aplicar automaticamente o perfil correto ao detectar novas ONUs.
+   - Suporte para vários cenários de vinculação, como 1:1:1, N:N:N, entre outros.
+
+4. **Sistema de Priorização de Perfis:**
+   - Mecanismo para priorizar perfis baseados no uso histórico, garantindo a eficiência no provisionamento.
+
+#### Requisitos Técnicos:
+- Integração sólida com o banco de dados interno do IXC Provedor.
+- Criação de tabelas no banco de dados para gerenciamento robusto de templates.
+- Consulta otimizada para rápida identificação e vinculação de perfis.
+
+#### Critérios de Aceitação:
+- Sistema eficiente de sugestão e vinculação automática deve funcionar conforme os cenários definidos.
+- Redução significativa no tempo de provisionamento comparado ao processo manual.
+
+#### Riscos e Desafios:
+- Complexidade na implementação de lógica para cenários diversos de vinculação.
+- Possíveis impactos de performance com grandes volumes de ONUs.
+
+#### Dependências:
+- Acesso contínuo ao banco de dados do IXC Provedor e informações atualizadas sobre modelos de ONUs, OLTs e perfis.
+
+#### Melhoria Contínua:
+- A equipe está comprometida com melhorias baseadas no feedback dos usuários e desempenho do sistema.
+
+#### Métricas de Sucesso:
+- Alvo de reduzir 80% no tempo médio de provisionamento.
+- Diminuição de 90% nos erros de provisionamento.
+- Meta de adoção de 95% entre os técnicos três meses após lançamento.
+
+#### Próximos Passos:
+- Validação contínua com stakeholders e testes rigorosos para garantir o sucesso e adoção integral.
+  
+--- 
+
+Você pode saber mais sobre cada uma dessas funcionalidades visitando os links relacionados na [IXC Wiki](https://wiki.ixcsoft.com.br/pt-br/home). Para dúvidas específicas, consulte os documentos e informações técnicas disponíveis na plataforma.
+
+--- 
+
+Este documento serve para orientar usuários e técnicos no entendimento e uso eficaz das novas funcionalidades do sistema IXC Provedor, trazendo benefícios tangíveis na gestão e operação de redes.
